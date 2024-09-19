@@ -1,0 +1,13 @@
+{
+  "products": [
+    {
+      "id": "cd6f",
+      "name": "ahmed",
+      "brand": "zeaze",
+      "category": "Phones",
+      "price": 122333,
+      "description": "dfgdfgdg",
+      "createdAt": "2024-09-18"
+    }
+  ]
+}
